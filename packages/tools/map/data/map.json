@@ -4491,7 +4491,7 @@
                 }],
          "opacity":1,
          "type":"objectgroup",
-         "visible":true,
+         "visible":false,
          "x":0,
          "y":0
         }, 
@@ -9953,7 +9953,7 @@
                  "value":256
                 }],
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -9975,7 +9975,7 @@
                         {
                          "name":"items",
                          "type":"string",
-                         "value":"leatherarmor,morningstar,leatherarcherarmor,plasticbow"
+                         "value":"boweggplant"
                         }],
                  "rotation":0,
                  "type":"",
@@ -10048,7 +10048,7 @@
                         {
                          "name":"items",
                          "type":"string",
-                         "value":"trident,ring1,seahorsebow"
+                         "value":"cobaltaxe,ring1,bowocean"
                         }],
                  "rotation":0,
                  "type":"",
@@ -10188,7 +10188,7 @@
                 }],
          "opacity":1,
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -11866,6 +11866,11 @@
                  "id":47,
                  "properties":[
                         {
+                         "name":"c",
+                         "type":"string",
+                         "value":""
+                        }, 
+                        {
                          "name":"h",
                          "type":"string",
                          "value":""
@@ -11875,6 +11880,11 @@
                  "id":48,
                  "properties":[
                         {
+                         "name":"c",
+                         "type":"string",
+                         "value":""
+                        }, 
+                        {
                          "name":"h",
                          "type":"string",
                          "value":""
@@ -11883,6 +11893,11 @@
                 {
                  "id":49,
                  "properties":[
+                        {
+                         "name":"c",
+                         "type":"string",
+                         "value":""
+                        }, 
                         {
                          "name":"h",
                          "type":"string",
@@ -12238,6 +12253,11 @@
                  "id":111,
                  "properties":[
                         {
+                         "name":"c",
+                         "type":"string",
+                         "value":""
+                        }, 
+                        {
                          "name":"h",
                          "type":"string",
                          "value":""
@@ -12247,6 +12267,11 @@
                  "id":112,
                  "properties":[
                         {
+                         "name":"c",
+                         "type":"string",
+                         "value":""
+                        }, 
+                        {
                          "name":"h",
                          "type":"string",
                          "value":""
@@ -12255,6 +12280,11 @@
                 {
                  "id":113,
                  "properties":[
+                        {
+                         "name":"c",
+                         "type":"string",
+                         "value":""
+                        }, 
                         {
                          "name":"h",
                          "type":"string",
@@ -12648,6 +12678,11 @@
                  "id":175,
                  "properties":[
                         {
+                         "name":"c",
+                         "type":"string",
+                         "value":""
+                        }, 
+                        {
                          "name":"h",
                          "type":"string",
                          "value":""
@@ -12665,6 +12700,11 @@
                 {
                  "id":177,
                  "properties":[
+                        {
+                         "name":"c",
+                         "type":"string",
+                         "value":""
+                        }, 
                         {
                          "name":"h",
                          "type":"string",
